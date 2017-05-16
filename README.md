@@ -1,5 +1,13 @@
 # Frontend
 
+ - [Rob Eisenberg: Choosing a JavaScript Framework](https://www.youtube.com/watch?v=6I_GwgoGm1w&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+  - [Brenna O'Brien: The Myth of The "Real JavaScript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+  - [Anjana Vakil: Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY&index=8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+ - [Jeremy Fairbank: The Rise of Async JavaScript](https://www.youtube.com/watch?v=QtgR94Q2pt4&index=51&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+  - [Safia Abdalla: The Hitchhiker's Guide to All Things Memory in JavaScript](https://www.youtube.com/watch?v=AeUCN2lPqL8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+  - [Preethi Kasireddy: Reasonable JavaScript](https://www.youtube.com/watch?v=cqK18_rHt9w&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+ - [Steve McGuire: React.js for TV UIs](https://www.youtube.com/watch?v=5sETJs2_jwo)
+ - [John Papa: An Angular 2 Force Awakens](https://www.youtube.com/watch?v=WAPQF_GA7Qg)
  - [Christian Vuerings: CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
  - [Una Kravets: Practical Blend Modes in CSS](https://vimeo.com/184235576)
  - [David Khourshid: Reactive Animations with CSS Variables](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
