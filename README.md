@@ -27,6 +27,7 @@
  - [Colour Theory - Lea Verou](https://www.youtube.com/watch?v=8xjR7QXQKJ0)
  - [/Reg(exp){2}lained/: Demystifying Regular Expressions - Lea Verou](https://www.youtube.com/watch?v=EkluES9Rvak)
  - [The Missing Slice - Lea Verou](https://www.youtube.com/watch?v=eVnUDTtOLE0)
+ - [Totally Tooling Tips with Addy Osmani & Matt Gaunt (Playlist)](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 
 # Backend
 
