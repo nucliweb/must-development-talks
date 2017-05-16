@@ -10,7 +10,7 @@
  - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
  - [Emanuel Kluge: Go Offline with Service Workers](https://www.youtube.com/watch?v=ou6oPEEyjNQ&list=PL37ZVnwpeshGgaWeK9oFRPIjrLSo8mm6b&index=4)
  - [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4)
- - [Addy Osmani: Plight Of The Butterfly: Object.observe](2https://www.youtube.com/watch?v=mfOh-J-9BY0)
+ - [Addy Osmani: Plight Of The Butterfly: Object.observe](https://www.youtube.com/watch?v=mfOh-J-9BY0)
  - [Accessibility for developers - Alistair Duggin](https://www.youtube.com/watch?v=msrcqmlAnLA)
  - [Luis González - Nadie quiere trabajar contigo en Codemotion 2016](https://www.youtube.com/watch?list=PLKxa4AIfm4pUvMn4lZ8zin500bsp3oL2A&v=T44bgTCxTPg)
  - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
