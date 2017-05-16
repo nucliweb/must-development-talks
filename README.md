@@ -1,5 +1,14 @@
 # Frontend
 
+ - [Christian Vuerings: CSS in 2016 and Beyond](https://www.youtube.com/watch?v=9AG35HCBpo4)
+ - [Una Kravets: Practical Blend Modes in CSS](https://vimeo.com/184235576)
+ - [David Khourshid: Reactive Animations with CSS Variables](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
+ - [Belén Albeza: You Might Not Need a CSS Framework](https://www.youtube.com/watch?v=5FdHqVDlXu0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
+ - [Philip Walton: The Dark Side of Polyfilling CSS](https://www.youtube.com/watch?v=ZskP7cvj3WA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
+ - [Rachel Andrew: Laying out the Future with Grid and Flexbox](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
+ - [Jen Simmons: Real Art Direction on the Web](https://www.youtube.com/watch?v=5Z7lSSMwRgo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
+ - [Jacob Thornton: Cascading Shit Show](https://www.youtube.com/watch?v=iniwPUEbPUM&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
+ - [Val Head: Motion Design with CSS](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
  - [What the Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
  - [CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016](https://www.youtube.com/watch?v=axVw1Zduqn0)
  - [Brenna O'Brien: JavaScript Community: The Good Parts | JSConf EU 2015](https://www.youtube.com/watch?v=2ypYniQa7_o)
