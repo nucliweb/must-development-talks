@@ -21,6 +21,12 @@
  - [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
  - [Designing for Front-End Page Speed](https://www.youtube.com/watch?v=RtpVZ5OzJlc&feature=youtu.be)
  - [Harry Roberts - Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
+ - [CSS3 Secrets: 10 things you might not know about CSS3 - Lea Verou](https://www.youtube.com/watch?v=54wJkqG8jXE)
+ - [More CSS Secrets: Another 10 things you may not know about CSS - Lea Verou](https://www.youtube.com/watch?v=3ikye7Qc7Ak)
+ - [CSS in the 4th Dimension - Lea Verou](https://www.youtube.com/watch?v=NTJUFQmHbvc)
+ - [Colour Theory - Lea Verou](https://www.youtube.com/watch?v=8xjR7QXQKJ0)
+ - [/Reg(exp){2}lained/: Demystifying Regular Expressions - Lea Verou](https://www.youtube.com/watch?v=EkluES9Rvak)
+ - [The Missing Slice - Lea Verou](https://www.youtube.com/watch?v=eVnUDTtOLE0)
 
 # Backend
 
