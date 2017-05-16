@@ -31,4 +31,19 @@
 
 # Backend
 
--
+- [Josh Long: Cloud Native Java](https://www.youtube.com/watch?v=5q8B6lYhFvE)
+- [Trisha Gee: Java 8 in anger](https://www.youtube.com/watch?v=6_06zcDisNg)
+
+# Testing
+
+- Sandro Mancuso: Outside in TDD:
+  - [Part 1](https://www.youtube.com/watch?v=XHnuMjah6ps)
+  - [Part 2](https://www.youtube.com/watch?v=gs0rqDdz3ko)
+  - [Part 3](https://www.youtube.com/watch?v=R9OAt9AOrzI)
+- [JB Rainsberger: Integrated tests are a scam](https://www.youtube.com/watch?v=VDfX44fZoMc)
+
+# Misc
+
+- [Uncle Bob: Estimation, What, When, Why](https://skillsmatter.com/skillscasts/8557-estimation-what-when-why-by-robert-martin)
+- [Sandro Mancuso: Testing and refactoring legacy code](https://www.youtube.com/watch?v=JTHMd1nQlSg)
+- [Chad Fowler: Legacy](https://www.youtube.com/watch?v=YruzQgWdv48)
